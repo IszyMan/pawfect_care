@@ -33,7 +33,7 @@
 ## Setup and Installation
 1. *Clone the repository*
    bash
-   git pull https://github.com/HabeebEttu/pawfect_care.git    
+   git pull https://github.com/IszyMan/pawfect_care.git   
    cd pawfect_care
 
 2. *Upgrade dependencies*
